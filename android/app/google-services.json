@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "959793786536",
+    "project_id": "sparks-task",
+    "storage_bucket": "sparks-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959793786536:android:7f131bebd688a6ce3a1c9d",
+        "android_client_info": {
+          "package_name": "com.himanshu.google_fb_login_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959793786536-3u6v352d9gkt5amfm810iu1vhd6fabcm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.himanshu.google_fb_login_auth",
+            "certificate_hash": "c183305fab43ea2e5dc82e34dbb6e4f3964471dd"
+          }
+        },
+        {
+          "client_id": "959793786536-76ve1e4jk6bdi94262f7dbqgf8rfsqfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJuOgUF4o3MIwLNRDpBS9bHqPSiHFUqaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959793786536-76ve1e4jk6bdi94262f7dbqgf8rfsqfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
